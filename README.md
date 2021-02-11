@@ -1,6 +1,6 @@
 # Get-it-Done
 
-![Screenshot](public/images/screenshot-homepage.jpg)
+![Screenshot](public/images/git_it_done.jpg)
 
 ## Description
 
